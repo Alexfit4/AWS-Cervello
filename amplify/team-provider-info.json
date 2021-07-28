@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cervelloawsglobal-dev-145348-authRole",
+      "UnauthRoleArn": "arn:aws:iam::513878182117:role/amplify-cervelloawsglobal-dev-145348-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::513878182117:role/amplify-cervelloawsglobal-dev-145348-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cervelloawsglobal-dev-145348-deployment",
+      "UnauthRoleName": "amplify-cervelloawsglobal-dev-145348-unauthRole",
+      "StackName": "amplify-cervelloawsglobal-dev-145348",
+      "StackId": "arn:aws:cloudformation:us-east-1:513878182117:stack/amplify-cervelloawsglobal-dev-145348/fbd1ee10-ef0b-11eb-bcf5-0a99f4b9302b",
+      "AmplifyAppId": "d3lft7mi8hq4g8"
+    },
+    "categories": {
+      "auth": {
+        "cervelloawsglobal23d95329": {}
+      }
+    }
+  }
+}

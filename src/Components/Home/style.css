@@ -1,0 +1,45 @@
+.globalLogo {
+  width: 150px;
+  height: auto;
+}
+
+.center {
+  align-items: center;
+  width: 50%;
+}
+
+.links {
+  
+  width: 25px;
+  height: 25px;
+}
+
+.fav{
+    top: 40px;
+   
+}
+
+.button{
+    margin-left:50px
+}
+
+.container {
+  position: relative;
+}
+
+.topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+
+.fabIcons{
+    margin-top: 10px;
+    padding-left: 40px;
+    
+}
+
+.fab{
+  color: #0077b5
+}

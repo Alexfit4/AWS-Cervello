@@ -1,0 +1,20 @@
+.bottom-right {
+ position: absolute;
+  bottom: 1px;
+  left: 22px;
+  font-size: 10px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+li {
+  padding-top: 10px;
+}
+
+.link{
+  height: 50px
+}

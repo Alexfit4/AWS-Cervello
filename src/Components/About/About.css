@@ -1,0 +1,21 @@
+.content {
+  align-items: left;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+p, h2, h1{
+    padding-top:10px;
+    
+}
+
+button{
+  margin-top:  10px
+}
+
+.text-left{
+  padding-left: 10px;
+}

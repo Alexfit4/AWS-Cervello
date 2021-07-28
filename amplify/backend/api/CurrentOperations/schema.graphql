@@ -1,0 +1,16 @@
+type Current @model {
+  id: ID!
+  driver: String!
+  vehicle_number: Int
+  hazmat: String
+  load_description: String
+  
+}
+
+
+type Future @model {
+  id: ID!
+  date_scheduled: String!
+  date_due: String
+  load_description: String
+}
