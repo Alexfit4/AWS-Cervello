@@ -29,7 +29,7 @@ export default function Home() {
        userSigned = false
     }
 
-    if (userSigned === false && window.location.href.includes("/Internal") || userSigned === false && window.location.href.includes("/Manager")){
+    if ((userSigned === false && window.location.href.includes("/Internal")) || (userSigned === false && window.location.href.includes("/Manager"))){
      return window.location.href = "/Login"
     }
   }
